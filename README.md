@@ -1,3 +1,3 @@
 # notebook
 
-HTMLやPythonコードなどをdocsにコピーするツール
+PythonコードをとってきたりHTMLのリンクツリーを作ったりするツール
